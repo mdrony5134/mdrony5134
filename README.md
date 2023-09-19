@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Md Rony
 #### I am a passionate frontend developer
-I am learning frontend development with modern framework. Love Coding
+I am learning frontend development with modern framework.💻 Love Coding
 
 Skills:  JAVASCRIPT / REACT / HTML / CSS / BOOTSTRAP
 
