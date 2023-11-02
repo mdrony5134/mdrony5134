@@ -2,7 +2,7 @@
 #### I am a passionate frontend developer
 I am learning frontend development with modern framework.💻 Love Coding
 
-Skills:  JAVASCRIPT / REACT / HTML / CSS / BOOTSTRAP
+Skills:  JAVASCRIPT / REACT / HTML / CSS / BOOTSTRAP / TAILWINDCSS / GIT / GITHUB
 
 - 🌱 I’m currently learning  JavaScript , React 
 - 👯 I’m looking to collaborate on Open Source  Project 
