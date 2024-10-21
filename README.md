@@ -21,8 +21,9 @@ I believe in the importance of continuous learning, so I regularly explore new t
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,express,mongodb,git,github,figma,xd,npm,yarn,vscode,netlify" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,express,mongodb," alt="My Skills">
+        <br>
+        <img src="https://skillicons.dev/icons?i=git,github,figma,xd,npm,yarn,vscode,netlify,vite,photoshop,mui,firebase" alt="My Skills">
     </a>
 </div>
-
 
