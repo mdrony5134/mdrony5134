@@ -15,7 +15,7 @@ I believe in the importance of continuous learning, so I regularly explore new t
 
 ## 🔥 Daily Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrony5134&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=1046&card_height=190)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mdrony5134&theme=dracula&card_width=750)](https://git.io/streak-stats)
 
 ## 🛠️ My Skills
 
